@@ -1,0 +1,3 @@
+libiqi_bridge.so
+liblowlight_ai_portrait.arcsoft.so
+libOpenCL.so
